@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+	
+#body {
+	
+   	height:100em;
+    margin:0 auto;
+    font-color: pink;
+	font-family: Arial, Sans-Serif;
+	font-size:2em;
+	font-weight:bold;
+	
+}
+
+
+div#wrapper {
+   width:70%; 
+   margin:0px auto;}
+   
+div#header {
+	font-size:2em;
+	
+	
+}
+
+div#main {
+	
+

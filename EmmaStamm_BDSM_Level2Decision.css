@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+	
+	#body {
+	background-color:#AFD0F4
+    widht: 30em;
+	height:100em;
+    margin:0 auto;
+    color: white;
+	font-family: Arial, Sans-Serif;
+	font-size:2em;
+	font-weight:bold;
+	
+}
+
+
+div#wrapper {
+   width:70%; 
+   margin:0px auto;}
+   
+div#header {
+	font-size:2em;
+	
+	
+}
+
+div#main {
+	
+

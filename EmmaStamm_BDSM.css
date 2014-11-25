@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    margin:2em;
+    padding:2em;
+    
+	background-image: url('http://etc.usf.edu/presentations/backgrounds/grid/grid_01/1020m.gif');
+	
+}
+
+div#wrapper {
+   width:90%; 
+   margin:0px auto;}
+   
+#body {
+    width:30em;
+	height:100em;
+    margin:0 auto;
+    color: white;
+	font-family: Times New Roman, Serif;
+	font-size:2em;
+	font-weight:bold;
+	
+}
+#header {
+    
+	
+	align-content:center;
+	font-size:2.2em;
+	
+}
+
+#h2		{
+	
+	align-content:center;
+	font-size:1em;
+}
+
+#content-main {
+  
+	margin:0.5em;
+	float:right;
+	width:12em; 
+	height:7.5em;
+   	align-content:justify;
+	font-size:1.1em;
+}
+
+#content-menu {
+   
+   font-family: Helvetica, Sans-serif;
+   	margin:0.5em;
+	float:left;
+   	width:10em; 
+	height:5em;
+	align-content:left;
+	font-size:0.9em;
+	
+	
+}
+
+#footer {
+   
+    background: black;
+	color: white;
+	font-family: Times New Roman, serif;
+	font-size:0.5em;
+	
+}

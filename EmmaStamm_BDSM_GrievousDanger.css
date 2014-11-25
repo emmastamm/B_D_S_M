@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family:Times New Roman, Serif;
+	font-size:1em;
+	margin:2em;
+    padding:2em;
+}
+
+div#wrapper {
+   width:90%; 
+   margin:0px auto;}
+   
+div#header {
+	font-size:2em;
+	
+	
+}
+
+div#main {
+	
+
